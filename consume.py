@@ -1,3 +1,13 @@
+"""
+# ⚠️ WARNING 
+
+When consume.py is run, a complex calculation is performed which utilises around 2TB of system RAM.
+Some of the basic operations are temporarily down since the demand for RAM would be so high. 
+Any normal user in their right mind would not have over 2TB of RAM installed, so use this with caution.
+Although not harmful, it may cause some damage to the system and I take no reponsibility for it.
+This is for research and education purpose only. Use it at your own risk.
+
+"""
 import numpy as np
 import psutil
 
@@ -24,3 +34,15 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+"""
+# ⚠️ WARNING 
+
+When consume.py is run, a complex calculation is performed which utilises around 2TB of system RAM.
+Some of the basic operations are temporarily down since the demand for RAM would be so high. 
+Any normal user in their right mind would not have over 2TB of RAM installed, so use this with caution.
+Although not harmful, it may cause some damage to the system and I take no reponsibility for it.
+This is for research and education purpose only. Use it at your own risk.
+
+"""
